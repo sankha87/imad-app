@@ -10,7 +10,10 @@ var articles = {
     title : 'Article one | sankhadeep',
     heading : 'Article one',
     date : ' 9 Sept 2017 ',
-    content: `<p>
+content: `      <div>
+<a href="/">article-one.html</a>
+</div>
+            <p>
                 This is the content for my first article. This is the content for my first article. This is the content for my first article
               </p>    
               <p> 
