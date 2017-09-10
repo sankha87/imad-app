@@ -27,7 +27,7 @@ var articles = {
                 This is the content for my second article. This is the content for my second article. This is the content for my second article
               </p>`
 },
- 'articl-three' : {
+ 'article-three' : {
     title : 'Article three | sankhadeep',
     heading : 'Article three',
     date : ' 11 Sept 2017 ',
